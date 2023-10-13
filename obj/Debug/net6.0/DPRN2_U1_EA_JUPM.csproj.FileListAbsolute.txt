@@ -1,0 +1,14 @@
+C:\Users\JChar\Downloads\DPRN2_U1_EA_JUPM\bin\Debug\net6.0\DPRN2_U1_EA_JUPM.exe
+C:\Users\JChar\Downloads\DPRN2_U1_EA_JUPM\bin\Debug\net6.0\DPRN2_U1_EA_JUPM.deps.json
+C:\Users\JChar\Downloads\DPRN2_U1_EA_JUPM\bin\Debug\net6.0\DPRN2_U1_EA_JUPM.runtimeconfig.json
+C:\Users\JChar\Downloads\DPRN2_U1_EA_JUPM\bin\Debug\net6.0\DPRN2_U1_EA_JUPM.dll
+C:\Users\JChar\Downloads\DPRN2_U1_EA_JUPM\bin\Debug\net6.0\DPRN2_U1_EA_JUPM.pdb
+C:\Users\JChar\Downloads\DPRN2_U1_EA_JUPM\obj\Debug\net6.0\DPRN2_U1_EA_JUPM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JChar\Downloads\DPRN2_U1_EA_JUPM\obj\Debug\net6.0\DPRN2_U1_EA_JUPM.AssemblyInfoInputs.cache
+C:\Users\JChar\Downloads\DPRN2_U1_EA_JUPM\obj\Debug\net6.0\DPRN2_U1_EA_JUPM.AssemblyInfo.cs
+C:\Users\JChar\Downloads\DPRN2_U1_EA_JUPM\obj\Debug\net6.0\DPRN2_U1_EA_JUPM.csproj.CoreCompileInputs.cache
+C:\Users\JChar\Downloads\DPRN2_U1_EA_JUPM\obj\Debug\net6.0\DPRN2_U1_EA_JUPM.dll
+C:\Users\JChar\Downloads\DPRN2_U1_EA_JUPM\obj\Debug\net6.0\refint\DPRN2_U1_EA_JUPM.dll
+C:\Users\JChar\Downloads\DPRN2_U1_EA_JUPM\obj\Debug\net6.0\DPRN2_U1_EA_JUPM.pdb
+C:\Users\JChar\Downloads\DPRN2_U1_EA_JUPM\obj\Debug\net6.0\DPRN2_U1_EA_JUPM.genruntimeconfig.cache
+C:\Users\JChar\Downloads\DPRN2_U1_EA_JUPM\obj\Debug\net6.0\ref\DPRN2_U1_EA_JUPM.dll
